@@ -4,6 +4,11 @@ Un clásico reinventado: el mítico Pong, pero en versión *cottagecore*.
 Menos neón, más pradera.  
 Menos arcade futurista, más picnic con flores silvestres.
 
+<img width="920" height="900" alt="image" src="https://github.com/user-attachments/assets/06a47efb-c3ea-4895-b090-78900c57a1cc" />
+<img width="996" height="885" alt="image" src="https://github.com/user-attachments/assets/9deb2739-1d0f-415e-8aa1-3978196997db" />
+
+
+
 Este proyecto es un juego hecho en **HTML, CSS y JavaScript **, generado con ayuda de Claude y luego ajustado a mano con amor campesino digital.
 
 ---
